@@ -1,6 +1,5 @@
 package com.bestapps.diabetes
 
-import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
